@@ -9,9 +9,8 @@
 <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=007bff&style=for-the-badge&logo=github&logo-color=white" alt="Github"/>
 </a>
 
-  
 
-<a href="https://www.instagram.com/akshat_Dwivedi_ceo/" target="_blank">
+<a href="https://www.instagram.com/akshat_dwivedi_ceo/" target="_blank">
 <img src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=E4405F&style=for-the-badge&logo=instagram&logo-color=white" alt="Instagram"/>
 </a>
 
