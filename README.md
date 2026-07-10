@@ -2,7 +2,7 @@
 
 **Strategist. Engineer. Operator.** Building high-performance AI systems, productivity engines, and scalable tech stacks. Currently obsessed with asymmetric advantages in AI Agent orchestration, low-latency systems, and high-performance computing.
 
-[**LinkedIn**](https://www.linkedin.com/in/akshat-dwivedi-740203377/) | [**Website**](https://sashvat.com)
+[**About Me**](https://akshat-dwivedi-52.vercel.app/) | [**Sashvat Website**](https://sashvat.com)
 
 ---
 ### 🛠️ Core Stack :
