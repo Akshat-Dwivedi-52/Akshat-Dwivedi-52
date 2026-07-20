@@ -2,7 +2,7 @@
 
 **Strategist. Engineer. Operator.** Building high-performance AI systems, productivity engines, and scalable tech stacks. Currently obsessed with asymmetric advantages in AI Agent orchestration, low-latency systems, and high-performance computing.
 
-[**About Me**](https://akshat-dwivedi-52.vercel.app/) | [**Sashvat Website**](https://sashvat.com)
+[**About Me**](https://akshat-dwivedi-52.vercel.app/) | [**Sashvat Bharat**](https://sashvat.com)
 
 ---
 ### 🛠️ Core Stack :
@@ -16,8 +16,8 @@
 ---
 ### ⚡ Let's Build :
 
-I’m interested in collaborating on **AI infrastructure**, **Agentic Workflows**, or **Scalable Architectures**. If you’re building something that disrupts the status quo, let’s talk.
+I’m interested in collaborating on **Harness Engineering**, **Agentic AI Workflows**, and **Scalable Architectures**. If you’re building something that disrupts the status quo, let’s talk.
 
-> "Execute with intent, or don't execute at all."
+> *"Execute with intent, or don't execute at all."*
 
 ---
