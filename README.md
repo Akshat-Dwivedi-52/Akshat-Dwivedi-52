@@ -11,7 +11,7 @@
 - **Languages:** TypeScript, Javascript, Python, Rust.
 - **Frontend/Apps:** React, Next.js, CSS.
 - **Backend:** Node.js, Bun, Redis, PostgreSQL.
-- **Infrastructure** Linux, Docker, Kubernetes, AWS, GCP.
+- **Infrastructure:** Linux, Docker, Kubernetes, AWS, GCP.
 - **Workflow:** `pi.dev`, Git/GitHub, Obsidian.
 - **Tools:** VS CODE(IDE), Figma(for designing).
 
